@@ -1,0 +1,21 @@
+{
+  "name": "audioeng-portfolio",
+  "version": "1.0.0",
+  "description": "Audio Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svvntos/audioEng-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svvntos/audioEng-Portfolio/issues"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
