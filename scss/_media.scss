@@ -18,6 +18,9 @@
       li {
         padding: 1rem;
       }
+      #logo {
+        width:100px
+    }
     }
   
     #header {
@@ -26,9 +29,7 @@
         border-bottom: 3px solid $main-color;
         background-position: 20% 30%;
 
-        #logo {
-            width:100px
-        }
+        
   
         .header-content {
           display: none;

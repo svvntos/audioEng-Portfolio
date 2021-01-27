@@ -327,12 +327,12 @@ img {
     align-items: center; }
     #main-nav li {
       padding: 1rem; }
+    #main-nav #logo {
+      width: 100px; }
   #header-home {
     height: 10rem;
     border-bottom: 3px solid #ffbc00;
     background-position: 20% 30%; }
-    #header-home #logo {
-      width: 100px; }
     #header-home .header-content {
       display: none; }
   #header-inner {
