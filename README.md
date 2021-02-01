@@ -1,8 +1,8 @@
 # Title ![](https://img.shields.io/badge/License-MIT-important)
-Client Porfolio | SASS/CSS Porfolio
+Client Porfolio | Brian Da-Silva | Audio Engineer
 
 # Description
-Brian Da-Silva | Audio Engineer
+HTML, CSS/SASS, JS
 
 I created a porfolio for a client that is a Audio Engineer uing Sass!
 
