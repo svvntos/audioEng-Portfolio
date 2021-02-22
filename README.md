@@ -4,7 +4,7 @@ Client Porfolio | Brian Da-Silva | Audio Engineer
 # Description
 HTML, CSS/SASS, JS
 
-I created a porfolio for a client that is a Audio Engineer uing Sass!
+I created a porfolio for a client that is a Audio Engineer using Sass!
 
 # Example
 ![](example.gif)
